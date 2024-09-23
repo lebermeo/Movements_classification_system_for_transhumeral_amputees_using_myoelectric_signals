@@ -1,2 +1,1 @@
 # Movements_classification_system_for_transhumeral_amputees_using_myoelectric_signals
-Movements classification system for transhumeral amputees using myoelectric signals
